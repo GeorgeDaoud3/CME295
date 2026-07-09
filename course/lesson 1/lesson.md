@@ -1,7 +1,7 @@
 # Lecture 1: Introduction
 
-Goto [Home page](/)
+Goto [Home page](/README.md)
 
 
 
-Goto [Home page](/)
+Goto [Home page](/README.md)
