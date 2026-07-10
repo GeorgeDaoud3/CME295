@@ -1,13 +1,13 @@
-# [Lecture 1: introduction](./lesson.md) / Sentiment Extraction :
+# [Lecture 1: introduction](./lesson.md) / Name Entity Recognition :
 
 Goto [Home page](/README.md)
 
 ## Task:
-Determine whether the text is positive, negative or neutral 
+Identify and label key elements within the the text
 
 ## Example: 
 ```
-This teddy bear is SO cute ---> Model ---> Positive
+This teddy bear is SO cute ---> Model ---> This **teddy bear** is SO cute
 ```
 
 ## Datatsets
