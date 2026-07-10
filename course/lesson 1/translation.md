@@ -20,6 +20,6 @@ Translate a text from a language to another
    * **BLEU**: Quality of translated text (similar to precision)
    * **ROUGE**: Quality of generated text (similar to recall)
 * Doesn't need labels
-* **Perplexity**: quantifies how "surprisd" the model is to see some words together $p(y_{t}| X , y_{1},...,y_{t-1})$
+* **Perplexity**: quantifies how "surprisd" the model is to see some words together $P(y_{t}| X , y_{1},...,y_{t-1})$
   
 Goto [Home page](/README.md)
