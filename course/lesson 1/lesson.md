@@ -33,5 +33,13 @@ Goto [Home page](/README.md)
    * Question Answering
    * Summarization
    * Text Generation
+
+## High-level timeline
+
+1980s    ---> Recurrent Neural Networks (RNNs)
+1997     ---> Long short -term memory (LSTM)
+2013     ---> Word2Vec
+2017     ---> Transformers
+2020s    ---> Large Language Models
      
 Goto [Home page](/README.md)
