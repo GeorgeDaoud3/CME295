@@ -6,10 +6,10 @@ Goto [Home page](/README.md)
 Identify and label key elements within the the text
 
 ## Example: 
-> This is a quote with <span style="color:red;">red text</span> inside of it.
+> This is a regular quote. $\color{red}{\text{This specific text will be red.}}$
 
 ```
-This teddy bear is SO cute ---> Model ---> This  <span style="color:red;">teddy bear</span> is SO cute
+This teddy bear is SO cute ---> Model ---> This  $\color{red}{\text{teddy bear}}$ is SO cute
 ```
 
 ## Datatsets
