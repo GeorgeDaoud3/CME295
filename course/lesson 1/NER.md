@@ -6,11 +6,10 @@ Goto [Home page](/README.md)
 Identify and label key elements within the the text
 
 ## Example: 
-> This is a regular quote. $\color{red}{\text{This specific text will be red.}}$
 
-```
-This teddy bear is SO cute ---> Model ---> This  $\color{red}{\text{teddy bear}}$ is SO cute
-```
+> This teddy bear is SO cute ---> Model ---> This $\color{green}{\text{teddy bear}}$ is SO cute
+
+**teddy bear** is Identifies as the entity.
 
 ## Datatsets
 1. [Amazon reviews](https://www.kaggle.com/datasets/bittlingmayer/amazonreviews)
