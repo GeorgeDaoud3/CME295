@@ -7,7 +7,7 @@ Identify and label key elements within the the text
 
 ## Example: 
 
-> This teddy bear is SO cute ---> Model ---> This $\color{green}{\textbf{teddy bear}}$ is SO cute
+> This teddy bear is SO cute ---> Model ---> This $\color{ref}{\text{teddy bear}}$ is SO cute
 
 **teddy bear** is Identifies as the entity.
 
