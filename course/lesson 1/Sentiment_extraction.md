@@ -6,9 +6,7 @@ Goto [Home page](/README.md)
 Determine whether the text is positive, negative or neutral 
 
 ## Example: 
-```
-This teddy bear is SO cute ---> Model ---> Positive
-```
+> This teddy bear is SO cute ---> Model --->  $\color{DarkGreen}{\text{Positive}}$
 
 ## Datatsets
 1. [Amazon reviews](https://www.kaggle.com/datasets/bittlingmayer/amazonreviews)
