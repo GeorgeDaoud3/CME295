@@ -29,7 +29,7 @@ Goto [Home page](/README.md)
    Input text ---> model --> Output text
 ```
    Application can be:
-   * Machine Translation
+   * [Machine Translation](./translation.md)
    * Question Answering
    * Summarization
    * Text Generation
