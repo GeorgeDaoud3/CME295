@@ -11,7 +11,7 @@ Identify and label key elements within the the text
 
 **teddy bear** is Identifies as the entity.
 ```latex
-This teddy bear is SO cute ---> Model ---> This $\color{red}{\textbf{teddy bear}}$ is SO cute
+This teddy bear is SO cute ---> Model ---> This \color{red}{\textbf{teddy bear}} is SO cute
 ```
 ## Datatsets
 1. [Amazon reviews](https://www.kaggle.com/datasets/bittlingmayer/amazonreviews)
