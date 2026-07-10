@@ -1,5 +1,5 @@
-# [Lecture 1: introduction](./lesson.md) / Name Entity Recognition :
-
+# [Lecture 1: introduction](./lesson.md) / Translation:
+**To be updated**
 Goto [Home page](/README.md)
 
 ## Task:
