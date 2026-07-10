@@ -10,7 +10,9 @@ Identify and label key elements within the the text
 > This teddy bear is SO cute ---> Model ---> This $\color{red}{\text{teddy bear}}$ is SO cute
 
 **teddy bear** is Identifies as the entity.
-
+```latex
+This teddy bear is SO cute ---> Model ---> This $\color{red}{\textbf{teddy bear}}$ is SO cute
+```
 ## Datatsets
 1. [Amazon reviews](https://www.kaggle.com/datasets/bittlingmayer/amazonreviews)
 2. [IMDB critiques](https://ai.stanford.edu/~amaas/data/sentiment/)
