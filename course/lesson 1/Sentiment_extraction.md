@@ -1,4 +1,4 @@
-# Lecture 1: Sentiment Extraction
+# [Lecture 1](./lesson.md): Sentiment Extraction
 
 Goto [Home page](/README.md)
 
