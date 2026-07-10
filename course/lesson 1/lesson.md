@@ -19,7 +19,7 @@ Goto [Home page](/README.md)
 ```
    Output can be:
    * Part of Speech tagging
-   * Named Entity Recognition
+   * [Named Entity Recognition](./NER.md)
    * Dependency Parsing
    * Consistituency Parsing
 
