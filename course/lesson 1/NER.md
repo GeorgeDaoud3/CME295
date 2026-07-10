@@ -13,6 +13,11 @@ Identify and label key elements within the the text
 ```latex
 This teddy bear is SO cute ---> Model ---> This \color{red}{\textbf{teddy bear}} is SO cute
 ```
+<pre>
+<b><font color="red">This text is explicitly bold and red.</font></b>
+Normal preformatted text can go here.
+</pre>
+
 ## Datatsets
 1. [Amazon reviews](https://www.kaggle.com/datasets/bittlingmayer/amazonreviews)
 2. [IMDB critiques](https://ai.stanford.edu/~amaas/data/sentiment/)
