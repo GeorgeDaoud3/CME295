@@ -12,7 +12,7 @@ Identify and label key elements within the the text
 **teddy bear** is Identifies as the entity.
 
 ## Datatsets
-1. Annotated Reuters newspaper (CoNLL-2023, CoNLL++)
+1. Annotated Reuters newspaper ([CoNLL-2023](https://www.conll.org/2023), [CoNLL++](https://www.kaggle.com/datasets/juliangarratt/conll2003-dataset))
    
 
 ## Evaluation Metrics
