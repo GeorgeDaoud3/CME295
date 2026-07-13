@@ -49,6 +49,6 @@ Convert text to numerics
    <soft, Teddy bear> $ \approx $ 1
 
 ### How to get the leaened embedding?
-[word2vec](/course/Script/word2Vec/index.md)
+[word2vec](/Script/word2Vec/index.md)
 
 Goto [Home page](/README.md)
