@@ -20,10 +20,13 @@ How to cut the text to pass it to the model
 ## summary 
 |      Method     |    Pros   | Cons |
 | --------------- | -------- | -------- |
-| Word-level      | * simple | * Risk of OOV (out of Vocabulary)   |
-|                 | * Interpretable | * Does not leverage knowledge of root |
+| Word-level      | simple | Risk of OOV (out of Vocabulary)   |
+|                 | Interpretable | Does not leverage knowledge of root |
 | --------------- | -------- | -------- |
-| Subword-level   | Cell 5   | Cell 6   |
-| Character-level | ||
+| Subword-level   | Leverage common prefixe & suffixes   | Risk of OOV (less than word-level) |
+|                 | Learned from the data   | |
+| --------------- | -------- | -------- |
+| Character-level | Small chances of OOV| slower|
+||Robust to casing and misspeings|Not interpretable|
 
 Goto [Home page](/README.md)
