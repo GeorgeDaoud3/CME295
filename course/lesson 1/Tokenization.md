@@ -11,4 +11,4 @@ How to cut the text to pass it to the model
 2. Word-level:
    > $\color{DarkGreen}{\text{A}}$ $\color{Red}{\text{cute}}$ $\color{Brown}{\text{teddy}}$ $\color{green}{\text{bear}}$ $\color{Blue}{\text{is}}$ $\color{Orange}{\text{reading}}$
 3. Subword-level:
-   > $\color{DarkGreen}{\text{A}}$ $\color{Red}{\text{cute}}$ $\color{Brown}{\text{ted}}$ $\color{DarkRed}{\text{\_dy}}$ $\color{green}{\text{bear}}$ $\color{Blue}{\text{is}}$ $\color{Orange}{\text{read}}$ $\color{DarkYellow}{\text{_ing}}$
+   > $\color{DarkGreen}{\text{A}}$ $\color{Red}{\text{cute}}$ $\color{Brown}{\text{ted}}$ $\color{DarkRed}{\text{-dy}}$ $\color{green}{\text{bear}}$ $\color{Blue}{\text{is}}$ $\color{Orange}{\text{read}}$ $\color{DarkYellow}{\text{-ing}}$
