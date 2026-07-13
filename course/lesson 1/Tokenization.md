@@ -5,7 +5,7 @@ Goto [Home page](/README.md)
 ## Overview
 How to cut the text to pass it to the model
 
-## Types:
+### Types:
 1. Arbitrary:
    > $\color{DarkGreen}{\text{A}}$ $\color{Red}{\text{cute}}$ $\color{Brown}{\text{teddy bear}}$ $\color{Blue}{\text{is}}$ $\color{Orange}{\text{reading}}$
 2. Word-level:
@@ -17,16 +17,38 @@ How to cut the text to pass it to the model
    
    Cons: Sequence is longer (make model more complicated)
 
-## summary 
+### summary 
 |      Method     |    Pros   | Cons |
 | --------------- | -------- | -------- |
 | Word-level      | simple | Risk of OOV (out of Vocabulary)   |
 |                 | Interpretable | Does not leverage knowledge of root |
-| --------------- | -------- | -------- |
 | Subword-level   | Leverage common prefixe & suffixes   | Risk of OOV (less than word-level) |
 |                 | Learned from the data   | |
-| --------------- | -------- | -------- |
 | Character-level | Small chances of OOV| slower|
 ||Robust to casing and misspeings|Not interpretable|
+
+## Token Representation 
+Convert text to numerics
+
+### Types:
+1. Naiive (one-hot encoding):
+   Ex:
+   soft=(1,0,0)
+   book=(0,1,0)
+   teddy bear=(0,1,1)
+
+   Cosine similarity fails as
+   <soft, book>=0
+   <Teddy bear, book>=0
+   <soft, Teddy bear>=0
+   
+2. Learned embedding
+   Ex:
+   soft=(0.95,0.32,0.01)
+   <Teddy bear, book> $ \approx $ 0
+   <soft, Teddy bear> $ \approx $ 1
+
+### How to get the leaened embedding?
+[word2vec](/course/Script/word2Vec/index.md)
 
 Goto [Home page](/README.md)
