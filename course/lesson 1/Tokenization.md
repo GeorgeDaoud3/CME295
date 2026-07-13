@@ -17,4 +17,11 @@ How to cut the text to pass it to the model
    
    Cons: Sequence is longer (make model more complicated)
 
+## summary 
+|      Method     |    Pros   | Cons |
+| --------------- | -------- | -------- |
+| Word-level      | Cell 2   | Cell 3   |
+| Subword-level   | Cell 5   | Cell 6   |
+| Character-level | ||
+
 Goto [Home page](/README.md)
