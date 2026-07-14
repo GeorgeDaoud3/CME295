@@ -25,7 +25,7 @@ How to cut the text to pass it to the model
 | Subword-level   | Leverage common prefixe & suffixes   | Risk of OOV (less than word-level) |
 |                 | Learned from the data   | |
 | Character-level | Small chances of OOV| slower|
-||Robust to casing and misspeings|Not interpretable|
+||Robust to casing and misspellings|Not interpretable|
 
 ## Token Representation 
 Convert text to numerics
